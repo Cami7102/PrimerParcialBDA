@@ -17,6 +17,7 @@ Explicando un poco la relacion entre las clases:
 - La relación entre "Cintillos" y "Compra" es de 1 a 1.
 - La relación entre "Compra" y "DetallesCompra" es de 1 a 1.
 - La relación entre "DetallesCompra" y "Proveedores" es de 1 a 1.
+- La relacion entre "Empleados" e "Inventario" es de 0 a 1 (0..1)
 
 ### Requisistos tecnicos
 
