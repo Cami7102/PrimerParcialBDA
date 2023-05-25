@@ -77,11 +77,11 @@ Con estos pasos ya tendria tu base de datos lista y con replicacion.
 ### **Como levantar localmente?**
 - Para ejecutar docker-compose:
 
-*docker-compose -f /home/ximeguz/PrimerParcialBDA/mysql.yml up*
+*docker-compose -f mysql.yml up*
 
 - Para dar de baja docker-compose:
 
-*docker-compose -f /home/ximeguz/PrimerParcialBDA/mysql.yml down*
+*docker-compose -f mysql.yml down*
 
 - Dentro de Docker Desktop ejecutar el comando siguiente:
 
