@@ -1,4 +1,8 @@
 # PrimerParcialBDA
+Nombre: Camila Ximena Guzman Salvatierra
+
+COD: 56762
+
 Este repositorio tiene la finalidad de almacenar descripcion e información de una base de datos, diagrama UML y requisitos tecnicos para la instalcion y ejecucion de este. 
 
 ## **CINTILLOS PARA MASCOTAS**
